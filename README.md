@@ -1,5 +1,5 @@
 # Numerical-PDEs-Coding
-2022spring NPU_Math杨自豪老师的《偏微分方程数值解编程》作业，一共四次作业
+2022spring NWPU计算数学系杨自豪老师的《偏微分方程数值解编程》作业，一共四次作业
 ## 五点差分格式
 ![五点差分法](https://raw.githubusercontent.com/Pochestina-zh/Numerical-PDEs-Coding/main/Five-points%20Difference%20Method/5-points%20Difference.jpg)
 
