@@ -6,7 +6,7 @@
 ## ADI，分数步长法
 ![ADI](https://raw.githubusercontent.com/Pochestina-zh/Numerical-PDEs-Coding/main/Fractional%20Step%20Method/ADI.jpg)
 
-## 波（双曲）方程经典显隐格式
+## 波动（双曲）方程经典显隐格式
 ![Wave equation](https://raw.githubusercontent.com/Pochestina-zh/Numerical-PDEs-Coding/main/Wave%20equation%20blending%20problem/Wave%20equation_classical%20implicit%20and%20explicit%20method.jpg)
 
 ## 对流方程迎风格式
