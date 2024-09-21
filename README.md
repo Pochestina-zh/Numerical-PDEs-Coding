@@ -11,3 +11,7 @@
 
 ## 对流方程迎风格式
 ![Convection equation](https://raw.githubusercontent.com/Pochestina-zh/Numerical-PDEs-Coding/main/Convection%20equation_yingfeng/Convection%20equation_yingfeng.jpg)
+
+
+
+代码不完全正确，需要自己微调！！
